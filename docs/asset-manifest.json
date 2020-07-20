@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SciFiCode/static/css/main.e7cd389e.chunk.css",
+    "main.js": "/SciFiCode/static/js/main.cd1df2b4.chunk.js",
+    "main.js.map": "/SciFiCode/static/js/main.cd1df2b4.chunk.js.map",
+    "runtime~main.js": "/SciFiCode/static/js/runtime~main.b669bb29.js",
+    "runtime~main.js.map": "/SciFiCode/static/js/runtime~main.b669bb29.js.map",
+    "static/js/2.b8a7688f.chunk.js": "/SciFiCode/static/js/2.b8a7688f.chunk.js",
+    "static/js/2.b8a7688f.chunk.js.map": "/SciFiCode/static/js/2.b8a7688f.chunk.js.map",
+    "index.html": "/SciFiCode/index.html",
+    "precache-manifest.f5835ec8f0c78bd1128f93295d2e1b6f.js": "/SciFiCode/precache-manifest.f5835ec8f0c78bd1128f93295d2e1b6f.js",
+    "service-worker.js": "/SciFiCode/service-worker.js",
+    "static/css/main.e7cd389e.chunk.css.map": "/SciFiCode/static/css/main.e7cd389e.chunk.css.map"
+  }
+}
