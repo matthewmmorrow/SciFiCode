@@ -1,6 +1,7 @@
 {
   "name": "scifi",
   "version": "0.1.0",
+  "homepage": "https://matthewmmorrow.github.io/SciFiCode/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",

@@ -50,7 +50,7 @@ class Timer extends Component {
 
   render() {
     var remaining = Math.round(this.state.remaining);
-    var segments = [...Array(10).keys()].map((val)=>this.addBar(val, remaining));
+    var segments = [...Array(30).keys()].map((val)=>this.addBar(val, remaining));
     return (
       <div className="TimerBar">
         {segments}
