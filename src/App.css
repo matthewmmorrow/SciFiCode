@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  color: #FFFFFF;
 }
 
 .App-logo {
@@ -21,6 +27,65 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Word {
+  line-height: 35vh;
+  font-size: 28vh;
+  min-width: 100%;
+  margin:0;
+}
+
+.Code {
+  width: 45vw;
+  height:45vh;
+}
+
+.TimerBar {
+  width: 90%;
+  height: 4vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 5vh;
+}
+
+.TimerSegment{
+  width: 8%;
+  height: 100%;
+  background-color:#FFFFFF;
+}
+
+.ColorButton, .WordButton {
+  height: 31%;
+  margin: 1%;
+  width: 45%;
+  background-color:transparent;
+  border-radius: 10px;
+  border-width: 3px;
+  border-color: #FFFFFF;
+}
+
+.WordButton {
+  color:#FFFFFF;
+  font-size: 8vh;
+}
+
+.TerminalTitle {
+  font-size: 3vh;
+}
+
+.unselected {
+  opacity: .5;
+}
+
+.Success {
+  font-size: 20vh;
+  min-width: 100%;
+  height:45vh;
+  color: #00FF00;
+  padding-top: 10vh;
 }
 
 @keyframes App-logo-spin {
