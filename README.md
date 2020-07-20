@@ -1,9 +1,14 @@
+# Introduction
 This is a neat little science fiction style panel for a LARP. It is designed around the color/word psychology problem where it's hard to quickly say the color of the word vs the word itself. The users have 30 seconds to enter the color from one adjacent panel and the word from the other.
 
 Use with 2 other panels (recommend tablets running this webpage). Each panel is given an ID 1-3 using the hashtag. I.e. `index.html#1` Make sure each panel is setup up uniquely. The panels do not have to be on the same network or anything. The correct answers are calculated via the current time so there is no communication. A game master manually verifies the correct answer on all devices.
 
+Try it out, open these on different devices:
+    * [https://matthewmmorrow.github.io/SciFiCode/#1](https://matthewmmorrow.github.io/SciFiCode/#1)
+    * [https://matthewmmorrow.github.io/SciFiCode/#2](https://matthewmmorrow.github.io/SciFiCode/#2)
+    * [https://matthewmmorrow.github.io/SciFiCode/#3](https://matthewmmorrow.github.io/SciFiCode/#3)
 
-
+# Development Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
